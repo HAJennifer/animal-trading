@@ -1,0 +1,45 @@
+#photo{
+  border-style: solid;
+  border-radius: 10%;
+  border-width: thin
+  padding: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+.facts{
+   background-image:url("https://michaelraunhome.files.wordpress.com/2015/04/abstract-white-background.jpg");
+background-repeat: repeat-x;
+  
+}
+.interesting{
+  font-style: italic;
+  font-size: 20px;
+}
+.description{
+
+}
+body{
+  width: 320px;
+  height:620px;
+  border-style:solid;
+  border-radius:5%;
+  box-shadow: 10px 10px grey;
+  padding:10px;
+}
+h3{
+  font-size: 25px;
+  border-style: hidden;
+}
+ul li span{
+  font-weight: bold ;
+}
+ul{
+list-style-type: none;
+}
+.facts{
+  border-style:solid;
+  border-width: thin;
+  border-radius:5%;
+  padding:10px;
+}
